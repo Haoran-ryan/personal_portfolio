@@ -27,12 +27,12 @@ const Works = () => {
               </span>
               <p className='text-center'>A school management system built with Vue 3 and Supabase</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/Haoran-ryan/Project_06_work-management-system'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/Haoran-ryan/Project_06_work-management-system'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -51,12 +51,12 @@ const Works = () => {
               </span>
               <p className='text-center'>A mail subscription system built with React and Firestore</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/Haoran-ryan/Project_05_amusement-park'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/Haoran-ryan/Project_05_amusement-park'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -75,12 +75,12 @@ const Works = () => {
               </span>
               <p className='text-center'>A quiz game built with React and Firestore, allowing multiplayers to compete with each other.</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://quizcraft-c8706.web.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/Haoran-ryan/Project_04_QuizCraft'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -99,12 +99,12 @@ const Works = () => {
               </span>
               <p className='text-center'>A social platform linking tutors and students, built with Ruby on Rails</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/Haoran-ryan/Project_01_Study-on-demand'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/Haoran-ryan/Project_01_Study-on-demand'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -123,12 +123,12 @@ const Works = () => {
               </span>
               <p className='text-center'>A classical tic-tac-toe game built with vanila Javascript</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://haoran-ryan.github.io/Project_00_tic-tac-toe/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/Haoran-ryan/Project_00_tic-tac-toe'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -143,16 +143,16 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                More to come...
+                Burning Airlines
               </span>
-              <p className='text-center'>More to come ...</p>
+              <p className='text-center'>Airline booking system built with React</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/Haoran-ryan/Project_03_ahj-airline-client'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/Haoran-ryan/Project_03_ahj-airline-client'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
