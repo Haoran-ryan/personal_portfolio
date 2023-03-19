@@ -13,7 +13,7 @@ const Skills = () => {
             </div> 
             <div className='w-full py-8'>
                 <h2 className='text-3xl font-bold mb-4'>Frontend</h2>
-                <div className='grid grid-cols-2 sm:grid-cols-4 gap-4 text-center'>
+                <div className='grid grid-cols-2 sm:grid-cols-5 gap-4 text-center'>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <p className='my-4'>HTML</p>
                     </div>
@@ -100,9 +100,9 @@ const Skills = () => {
               </span>
             </Link>
           </div>
-            </div>
-            </div>
-            </div>
-            )};
+        </div>
+    </div>
+</div>
+)};
   
 export default Skills;

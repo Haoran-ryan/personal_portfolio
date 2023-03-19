@@ -17,64 +17,47 @@ const About = () => {
                 About
               </p>
             </div>
-            <div></div>
           </div>
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-            <div className="sm:text-right text-4xl font-bold">
+            <div className="sm:text-right text-2xl font-bold">
               <p>
-                Hi. I'm Haoran Ryan Guo, nice to meet you. 
+                Hi. I'm Haoran Guo, nice to meet you. 
               </p>
             </div>
             <div>
               <p>
                 {" "}
-                With a background in conference interpreting, I have developed a keen ability to quickly learn and adapt to new situations, which has been an asset in my journey to become a software engineer. I have acquired knowledge and experience in various fields such as AI, mechanical engineering, pharmaceuticals, banking, and more, and have completed UGC in Data Engineering at TAFE and GC in IT at UNSW.</p>
+                With a background in conference interpreting, I have developed a keen ability to quickly learn and adapt to new situations, which has been an asset in my journey to become a software engineer. </p>
                 
             </div>
           </div>
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-            <div className="sm:text-right text-4xl font-bold py-5">
+            <div className="sm:text-right text-2xl font-bold py-5">
               <p>
-                I am an enthusiastic and dedicated professional.
+                I am an enthusiastic and dedicated professional who is passionate about software engineering.
               </p>
             </div>
             <div className="py-5">
               <p>
                 {" "}
-                Through these programs, I have mastered programming languages such as Python, SQL, R, and C, and have become proficient in using algorithms for data analytics. I have recently completed General Assembly's Software Engineering Immersive program, where I am confidently learning to do full-stack work with HTML, JavaScript, React, Ruby and so on.</p>
-                
+                Through my study at TAFE NSW and UNSW, I have mastered programming languages such as Python, SQL, R, and C, and have become proficient in using algorithms for data analytics. After completing Software Engineering Immersive program at General Assembly, I have become confident to do full-stack work with JavaScript, React, Ruby and so on.                </p>
             </div>
           </div>
-          <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-            <div className="sm:text-right text-4xl font-bold py-5">
-              <p>
-                I am passionate about software engineering.
-              </p>
-            </div>
-            <div className="py-5">
-              <p>
-                {" "}
-                As I continue to develop my skills and knowledge, I am seeking new opportunities to apply what I have learned and to grow as a software engineer. I am excited about the prospect of joining a team of like-minded professionals, and I look forward to the challenges and opportunities that lie ahead.</p>
-            </div>
-            <div>
+        </div>
+        <div>
             <Link
-              to="skills"
+              to="about2"
               smooth
               duration={500}
               className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
             >
-              My Skills
+              Ready for Challenges ... 
               <span className="group-hover:rotate-90 duration-300">
                 <HiArrowNarrowRight size={25} className="ml-3" />
               </span>
             </Link>
           </div>
-          </div>
-          
-        </div>
-       
       </div>
-    
     </div>
   );
 };
